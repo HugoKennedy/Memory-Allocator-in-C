@@ -128,4 +128,4 @@ memalloc_finalize(&m);
 
 ## Auteur
 
-Projet réalisé dans le cadre d'un exercice de programmation en C sur la gestion mémoire.
+Hugo Kennedy--Martinez
